@@ -8,7 +8,7 @@
 ## I'm a Student, Developer and Gamer!!
 
 - 🎓 Studying Computer Science Engineer at [IMT Nord Europe][imt] in France
-- 💼 I’m currently working for [CRIStAL Laboratory][cristal] as a Infrastructure Expert (DevOps | Apprentice)
+- 💼 I’m currently working for [CRIStAL Laboratory][cristal] as a DevOps Engineer (Apprentice)
 
 
 ---
